@@ -13,7 +13,7 @@
                         <img src="https://s-wiki.cs.money/wiki_JO8H5MF_large_preview.png"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://i.pinimg.com/originals/84/1a/b0/841ab0d894c00f24075719c13a274559.png" width="75px" height="75px">
+                        <img src="https://drive.google.com/file/d/1jcref9DMQM0S93Oc0marxCc8hQ0mB3Qi/view?usp=sharing" width="75px" height="75px">
                     </td>
                 </tr>
             </table>
