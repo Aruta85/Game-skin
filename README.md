@@ -1,22 +1,34 @@
 <html> 
     <title>Продажа скинов PUBG</title> 
-    <body style="background-color:#FFFF00">
+    <body style="background-color:Aqua">
         <header>
-            <img src="https://media.istockphoto.com/photos/gas-mask-and-rifle-picture-id1190665808?b=1&k=20&m=1190665808&s=170667a&w=0&h=HQnJF6EPbtNM2EIXM2XFeVCdo3iCvLvhGmwMJQCYcEI=">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgRuLu0PIW9cnhtsP14ylEHmGsdXgr2iw6Q&usqp=CAU"width="900px" height="100px">
         </header>
         <main>
-            <h1 style="font-size:50px;color:LightSalmon;text-align:center">Лучшие скины</h1> 
-            <h2>образцы</h2>
-            <table>
+            <h1 style="font-size:50px;color:blue;text-align:center">
+                <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%9F%D0%B8%D1%80%D0%B0%D1%82-%D0%94%D0%B6%D0%B8%D0%BD.png.webp"width="75px" height="75px">Лучшие скины<img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/10/%D0%A0%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80_%D0%91%D0%B0%D0%B7%D0%B7.png.webp"width="75px" height="75px">
+            </h1>
+            <h2 style="color:blue;text-align:center">ХИТЫ</h2>
+            <table cellspacing = "50">
                 <tr>
                     <td>
-                        <img src="https://s-wiki.cs.money/wiki_JO8H5MF_large_preview.png"width="100px" height="100px">
+                        <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%91%D0%B0%D1%80%D0%BB%D0%B8.png.webp"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://www.gfxpng.com/uploads/posts/2021-10/1635264495_colettegladiator-1.webp"width="75px" height="75px">
+                        <img src="https://www.gfxpng.com/uploads/posts/2021-10/1635264495_colettegladiator-1.webp"width="100px" height="100px">
+                    </td>
+                    <td>
+                        <img src="https://goldclan.ru/wp-content/uploads/2020/03/Horus-Bo.png"width="100px" height="100px">
+                    </td>
+                    <td></td>
+                    <td>
+                        <img src="https://bravostars.ru/wp-content/uploads/2020/03/Coach-Mike-279x300.png"width="100px" height="100px">
+                    </td>
+                    <td>
+                        <img src="https://www.gfxpng.com/uploads/posts/2021-08/1630427299_buzz-skin-born-bad.webp"width="100px" height="100px">
                     </td>
                 </tr>
             </table>
        </main>
      </body>
-</html>.
+</html>
