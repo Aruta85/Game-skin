@@ -6,7 +6,7 @@
         </header>
         <main>
             <h1 style="font-size:50px;color:LightSalmon;text-align:center">Лучшие скины</h1> 
-            <h2 style=>образцы</h2>
+            <h2>образцы</h2>
             <table>
                 <tr>
                     <td>
