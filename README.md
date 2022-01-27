@@ -13,7 +13,7 @@
                         <img src="https://s-wiki.cs.money/wiki_JO8H5MF_large_preview.png"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://www.gfxpng.com/493-kolett-skin-gladiator-brawl-stars-bez-fona-png.html"width="75px" height="75px">
+                        <img src="https://www.gfxpng.com/493-kolett-skin-gladiator-brawl-stars-bez-fona-png"width="75px" height="75px">
                     </td>
                 </tr>
             </table>
