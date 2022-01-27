@@ -6,7 +6,7 @@
         </header>
         <main>
             <h1 style="font-size:50px;color:blue;text-align:center">
-                <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%9F%D0%B8%D1%80%D0%B0%D1%82-%D0%94%D0%B6%D0%B8%D0%BD.png.webp" width="100px" height="100px">Ищешь скины? Тогда тебе к нам!!!<img src="https://www.gfxpng.com/uploads/posts/2021-08/1630427299_buzz-skin-born-bad.webp" width="100px" height="100px">
+                <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%9F%D0%B8%D1%80%D0%B0%D1%82-%D0%94%D0%B6%D0%B8%D0%BD.png.webp" width="100px" height="100px">Ищешь скины?Тогда тебе к нам!<img src="https://www.gfxpng.com/uploads/posts/2021-08/1630427299_buzz-skin-born-bad.webp" width="100px" height="100px">
             </h1>
             <h2 style="color:blue;text-align:center">НАШИ ХИТЫ</h2>
             <table cellspacing = "50">
