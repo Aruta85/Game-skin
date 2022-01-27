@@ -29,6 +29,12 @@
                     <td>
                         <img src="https://goldclan.ru/wp-content/uploads/2020/10/Brawloween-Rosa.png" width="100px" height="100px">
                     </td>
+                    <td>
+                        <img src="https://cdn131.picsart.com/331748362077211.png" width="100px" height="100px">
+                    </td>
+                    <td>
+                        <img src="https://brawlstarss.ru/wp-content/uploads/2021/01/Navigator-Kolett.png" width="100px" height="100px">
+                    </td>                    
                 </tr>
             </table>
        </main>
