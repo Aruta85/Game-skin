@@ -1,5 +1,5 @@
 <html> 
-    <title>Продажа скинов PUBG</title> 
+    <title>Продажа скинов Brawle Stars</title> 
     <body style="background-color:Aqua">
         <header>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgRuLu0PIW9cnhtsP14ylEHmGsdXgr2iw6Q&usqp=CAU"width="900px" height="100px">
