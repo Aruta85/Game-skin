@@ -13,11 +13,10 @@
                         <img src="https://s-wiki.cs.money/wiki_JO8H5MF_large_preview.png"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://drive.google.com/file/d/1jcref9DMQM0S93Oc0marxCc8hQ0mB3Qi/view"width="75px" height="75px">
+                        <img src="https://www.gfxpng.com/493-kolett-skin-gladiator-brawl-stars-bez-fona-png.html"width="75px" height="75px">
                     </td>
                 </tr>
             </table>
        </main>
      </body>
 </html>.
-https://drive.google.com/file/d/1jcref9DMQM0S93Oc0marxCc8hQ0mB3Qi/view
