@@ -20,7 +20,6 @@
                     <td>
                         <img src="https://goldclan.ru/wp-content/uploads/2020/03/Horus-Bo.png" width="100px" height="100px">
                     </td>
-                    <td></td>
                     <td>
                         <img src="https://bravostars.ru/wp-content/uploads/2020/03/Coach-Mike-279x300.png" width="100px" height="100px">
                     </td>
