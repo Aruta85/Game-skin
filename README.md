@@ -12,13 +12,13 @@
             <table cellspacing = "50">
                 <tr>
                     <td>
-                        <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%91%D0%B0%D1%80%D0%BB%D0%B8.png.webp"width="100px" height="100px">
+                        <img src="https://brawl-stars.info/wp-content/webp-express/webp-images/uploads/2021/12/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%91%D0%B0%D1%80%D0%BB%D0%B8.png.webp" width="100px" height="100px">
                     </td>
                     <td>
                         <img src="https://www.gfxpng.com/uploads/posts/2021-10/1635264495_colettegladiator-1.webp"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://goldclan.ru/wp-content/uploads/2020/03/Horus-Bo.png"width="100px" height="100px">
+                        <img src="https://goldclan.ru/wp-content/uploads/2020/03/Horus-Bo.png" width="100px" height="100px">
                     </td>
                     <td></td>
                     <td>
