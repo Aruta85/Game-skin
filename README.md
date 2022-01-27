@@ -25,7 +25,7 @@
                         <img src="https://bravostars.ru/wp-content/uploads/2020/03/Coach-Mike-279x300.png"width="100px" height="100px">
                     </td>
                     <td>
-                        <img src="https://www.gfxpng.com/uploads/posts/2021-08/1630427299_buzz-skin-born-bad.webp"width="100px" height="100px">
+                        <img src="https://www.gfxpng.com/uploads/posts/2021-08/1630427299_buzz-skin-born-bad.webp;100px">
                     </td>
                 </tr>
             </table>
